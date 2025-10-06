@@ -843,7 +843,7 @@
       <dependency>
         <groupId>org.liquibase</groupId>
         <artifactId>liquibase-core</artifactId>
-        <version>3.5.3</version>
+        <version>5.0.1</version>
       </dependency>
       <dependency>
         <groupId>net.javacrumbs.json-unit</groupId>
